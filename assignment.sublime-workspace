@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<meta name=\"author\" content=\"Rishika Swaraj\">\n\t<title>Rishika Swaraj</title>\n</head>\n<body>\n\t<header>\n\t\t<h1>RISHIKA SWARAJ</h1>\n\t\t<nav>\n\t\t\t<a href=\"http://www.coursera.org\"\n\t\ttarget=\"_blank\">One</a>\n\t\t     <a href=\"https://www.edx.org/\"\n\t\ttarget=\"_blank\">Two</a>\n\t\t    <a href=\"https://www.udacity.com/\"\n\t\ttarget=\"_blank\">Three</a>\n\t\t    <a href=\"https://github.com/Rishikaswaraj/Rishikaswaraj.github.io\"\n\t\ttarget=\"_blank\">Rishikaswaraj</a>\n\t    </nav>\n\t</header>\n\t<section>\n\t\t<h2>Favourite foods</h2>\n\t\t<ul>\n\t\t\t<li>Pasta</li>\n\t\t\t<li>Omelette</li>\n\t\t\t<li>Coffee</li>\n\t\t\t<li>Cake</li>\n\t\t</ul>\n\t</section>\n\t<section>\n\t\t<h2>Achievments</h2>\n\t\t<p>Progress in this case(100%)\n\t\t\t<progress value=\"1\"></progress><br>Progress in the Specialization capstone(20%)\n\t\t\t<progress value=\"20\" max=\"100\"></progress><br>Progress in life goals(30%)\n\t\t\t<progress value=\"30\" max=\"100\"></progress>\n\t\t</p>\n    </section>\n    <section>\n    \t<h2>More about me</h2>\n    \t<details open>\n    \t\t<summary>My childhood</summary>\n    \t\t<p>I love to play cricket in my childhood.I love to watch cartoons.I eat alot of sweets.\n            </p>\n        </details> \n    </section>\n    <footer>\n    \t<p>\n    \t\t<img src=\"http://www.intro-webdesign.com/images/newlogo.png\" alt=\"Intro to web design logo\">\n    \t\tThis page was created by Rishika Swaraj &amp; Collen van Lent. To learn more about web design,visit <a href=\"http://www.intro-webdesign.com\">Intro to Web Design.</a>\n    \t</p>\n    </footer>\n</body>\n</html>",
+			"file": "assignmentweek3.html",
+			"file_size": 0,
+			"file_write_time": 132411079633391135,
+			"settings":
+			{
+				"buffer_size": 1543,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/KIIT/Desktop/assign.html",
+		"/C/Program Files (x86)/Sublime Text 3/assignment.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assignmentweek3.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1543,
+								1543
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 408.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "assignment.html",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
